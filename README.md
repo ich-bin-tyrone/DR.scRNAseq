@@ -21,3 +21,5 @@ Welcome to the DR-scRNASeq! This app provides a user-friendly interface for perf
    - **▶️ Run**: Press the `Run` button to perform the dimensionality reduction and generate visualizations.
    - **🔎 Explore**: Two tabs will appear, allowing you to explore the data through the generated plots.
    - **💾 Download Plots**: You will also have the option to download the plots for further analysis or presentation.
+
+Link: https://7w4750-tyrone-mariano.shinyapps.io/myapp/?fbclid=IwY2xjawH_C6ZleHRuA2FlbQIxMAABHUKlZ5C4eKSbqNE1mefMGHNH5YWQycagW1OvU7QvUMbSDPdGgv6Ow4sAvg_aem_snij__epX8jcjRcoXUCSnw
